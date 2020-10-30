@@ -2,6 +2,9 @@
    "name": "morningcoffee",
    "publisher": "nickdark",
    "version": "1.0.0",
+   "repository": {
+      "url": "https://github.com/nickdark/morning-coffee-theme"
+   },
    "engines": {
       "vscode": "^1.0.0"
    },
