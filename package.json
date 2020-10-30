@@ -1,0 +1,21 @@
+{
+   "name": "morningcoffee",
+   "publisher": "nickdark",
+   "version": "1.0.0",
+   "engines": {
+      "vscode": "^1.0.0"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "label": "Morning Coffee Theme",
+            "uiTheme": "vs",
+            "path": "./theme.json"
+         }
+      ]
+   },
+   "displayName": "Morning Coffee Theme"
+}
