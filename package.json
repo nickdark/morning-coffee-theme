@@ -1,12 +1,12 @@
 {
    "name": "morningcoffee",
-   "publisher": "nickdark",
+   "publisher": "NicholasPrieto",
    "version": "1.0.0",
    "repository": {
       "url": "https://github.com/nickdark/morning-coffee-theme"
    },
    "engines": {
-      "vscode": "^1.0.0"
+      "vscode": "^1.0.1"
    },
    "categories": [
       "Themes"
