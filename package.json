@@ -1,7 +1,8 @@
 {
    "name": "morningcoffee",
    "publisher": "NicholasPrieto",
-   "version": "1.0.4",
+   "description": "☕ A light, readable, and community-driven theme for VS Code.",
+   "version": "1.0.5",
    "repository": {
       "url": "https://github.com/nickdark/morning-coffee-theme"
    },

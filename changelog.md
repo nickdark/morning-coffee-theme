@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.5] (2020-11-09)
+- Added description to package.json
+
 ## [1.0.4] (2020-11-09)
 - changed the color of number constants to a shade of purple
 - header symbols in markdown (i.e. an octothorpe) now are a light, camouflaged color to bring more attention to the actual title
