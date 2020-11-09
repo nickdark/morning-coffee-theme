@@ -204,9 +204,21 @@
          }
       },
       {
-         "scope": ["constant.language", "constant.numeric", "constant.other"],
+         "scope": ["constant.language", "constant.other"],
          "settings": {
             "foreground": "#E67E00"
+         }
+      },
+      {
+         "scope": "constant.numeric",
+         "settings": {
+            "foreground": "#8c08c5"
+         }
+      },
+      {
+         "scope": "punctuation.definition.heading.markdown",
+         "settings": {
+            "foreground": "#cccccc"
          }
       },
       {
