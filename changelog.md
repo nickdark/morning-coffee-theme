@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.6] (2020-11-12)
+- Added black panel border and title
+
 ## [1.0.5] (2020-11-09)
 - Added description to package.json
 
