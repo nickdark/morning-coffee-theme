@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.7] (2020-11-13)
+- Changed the extension's logo
+
 ## [1.0.6] (2020-11-12)
 - Added black panel border and title
 

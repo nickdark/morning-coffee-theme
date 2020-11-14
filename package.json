@@ -2,7 +2,7 @@
    "name": "morningcoffee",
    "publisher": "NicholasPrieto",
    "description": "☕ A light, readable, and community-driven theme for VS Code.",
-   "version": "1.0.6",
+   "version": "1.0.7",
    "repository": {
       "url": "https://github.com/nickdark/morning-coffee-theme"
    },
@@ -12,7 +12,7 @@
    "categories": [
       "Themes"
    ],
-   "icon": "coffee_pic.jpg",
+   "icon": "icon.png",
    "contributes": {
       "themes": [
          {
