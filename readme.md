@@ -18,6 +18,8 @@ Enjoy your Morning Coffee! ☕
 - Python
 - SQL
 - C/C++
+- Markdown
+- JSON
 
 
 <a href='https://www.freepik.com/vectors/logo'>Logo vector created by catalyststuff - www.freepik.com</a>
